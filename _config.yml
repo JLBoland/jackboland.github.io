@@ -1,1 +1,26 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: Jack Boland
+email: j.el.boland@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Personal site for Jack Boland, an SEO specialist in Richmond, VA.
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+# User setting
+owner:
+email:
+facebook_username: j.el.boland
+twitter_username: vincentvanbrogh
+github_username: jlboland
+address:
+  - line:
+  - line:
+  # Feel free to add more lines here 
+telephone:
+copyright:
+
+# API settings
+google_api_key:
+
+# Build settings
+markdown: kramdown
